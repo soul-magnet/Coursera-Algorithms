@@ -1,7 +1,5 @@
 package Programming_Assignment_1;
 
-import java.util.Scanner;
-
 /**
  * Programming Assignment #1
  * 
@@ -36,6 +34,9 @@ so feel free to use any programming language you want --- just type the final nu
  * Thoughts: I used the approach of multiplying strings instead of multiplying integers due to the limit exceeding in long.
  * 
  * https://leetcode.com/problems/multiply-strings/discuss/17605/Easiest-JAVA-Solution-with-Graph-Explanation?page=7
+ * 
+ * for the given inputs, the result will be:
+ * result: 8539734222673567065463550869546574495034888535765114961879601127067743044893204848617875072216249073013374895871952806582723184
  * */
 public class IntegerMultiplication {
 	
