@@ -1,4 +1,4 @@
-package Programming_Assignment_1;
+package Week_1;
 
 /**
  * Programming Assignment #1
