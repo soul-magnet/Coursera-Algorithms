@@ -1,4 +1,4 @@
-package Programming_Assignment_2;
+package Week_2;
 
 import java.io.BufferedReader;
 import java.io.DataInputStream;
@@ -28,6 +28,7 @@ public class CountInversions {
 	 * @return
 	 */
 	public static long countSplitInversionsAndMerge(int start, int end, int leftStart, int leftEnd, int rightStart, int rightEnd) {
+		
 		int subArray1[] = new int[leftEnd - leftStart + 1];
 		int subArray2[] = new int[rightEnd - rightStart + 1];
 		
